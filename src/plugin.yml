@@ -1,0 +1,8 @@
+name: Challange
+author: Moritz Felix Becker
+version: BETA
+main: io.moritzfelixbecker.challange.Challange
+
+commands:
+  timer:
+    description: contorl the timer
